@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=QueueInterface
+comment0.text=\n\ Write\ a\ description\ of\ interface\ QueueInterface\ here.\n\n\ @author\ (your\ name)\n\ @version\ (a\ version\ number\ or\ a\ date)\n
+comment1.params=item
+comment1.target=java.lang.Object\ add(java.lang.Object)
+comment1.text=\n\ Interface\ methods\ to\ be\ defined\ by\ MyQueue\n
+comment2.params=
+comment2.target=java.lang.Object\ peek()
+comment3.params=
+comment3.target=java.lang.Object\ remove()
+numComments=4

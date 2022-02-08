@@ -1,0 +1,22 @@
+#BlueJ class context
+comment0.target=MyStack
+comment0.text=\n\ a.\ boolean\ empty()\ \u2013\ Tests\ if\ stack\ is\ empty\nb.\ E\ peek()\ \u2013\ Looks\ at\ the\ object\ at\ the\ top\ of\ the\ stack\ without\nremoving\ it.\nc.\ E\ pop()\ \u2013\ Removes\ the\ object\ at\ the\ top\ of\ the\ stack\ and\ returns\nthe\ object\ as\ the\ value\ of\ this\ function.\nd.\ E\ push(E\ item)\ \u2013\ Pushes\ an\ item\ onto\ the\ top\ of\ the\ stack.\ne.\ int\ search(Object\ o)\ \u2013\ Returns\ the\ distance\ from\ the\ top\ of\ the\nstack\ of\ the\ occurrence\ that\ is\ nearest\ the\ top\ of\ the\ stack.\ The\ topmost\ item\ is\ considered\ to\ be\ at\ distance\ 1;\ the\ next\ item\ is\ at\ distance\ 2;\ etc..\n\n\ @ChristianHollar\n\ @10/11\n
+comment1.params=
+comment1.target=MyStack()
+comment1.text=\n\ Constructor\ for\ objects\ of\ class\ MyStack\n
+comment2.params=
+comment2.target=boolean\ isEmpty()
+comment2.text=\n\ isEmpty()\n\ \n\ if\ top\ of\ stack\ is\ equal\ to\ null\ then\ empty\ node\n
+comment3.params=
+comment3.target=java.lang.Object\ peek()
+comment3.text=\n\ reveals\ top\ of\ stack\n
+comment4.params=
+comment4.target=java.lang.Object\ pop()
+comment4.text=\n\ removes\ back\ value\n
+comment5.params=value
+comment5.target=void\ push(java.lang.Object)
+comment5.text=\n\ adds\ new\ value\ to\ front\n
+comment6.params=o
+comment6.target=int\ search(java.lang.Object)
+comment6.text=\n\ reveals\ location\ of\ value\ input\n
+numComments=7
